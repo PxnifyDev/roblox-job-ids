@@ -1,2 +1,2 @@
-EggTimeLeft = 120
-game:GetService("TeleportService"):TeleportToPlaceInstance(85896571713843, "40c3c306-e14b-43e5-b95b-95d6696b631c")
+EggTimeLeft = 48
+game:GetService("TeleportService"):TeleportToPlaceInstance(85896571713843, "06501b8d-5e1e-408a-8ec5-bad510cd4385")

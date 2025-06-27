@@ -1,5 +1,5 @@
 -- Zeit in Sekunden, wie lange das Egg verfügbar ist
-local EggTimeLeft = 540
+local EggTimeLeft = 10
 
 while true do
     game:GetService("TeleportService"):TeleportToPlaceInstance(85896571713843, "9d0b04f0-d10b-433f-ba75-83748bb126d2")

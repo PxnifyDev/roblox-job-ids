@@ -1,1 +1,1 @@
-return { EggTimeLeft = 480 }
+return { EggTimeLeft = 540 }

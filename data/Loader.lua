@@ -1,7 +1,7 @@
 -- Roblox Teleport Script
-local EggTimeLeft = 170
+local EggTimeLeft = 590
 while true do
-    game:GetService("TeleportService"):TeleportToPlaceInstance(85896571713843, "f976c5b6-692c-4763-8103-db5210813127")
+    game:GetService("TeleportService"):TeleportToPlaceInstance(85896571713843, "cf0548d1-03e1-4052-8e17-11d994f319c2")
     wait(EggTimeLeft)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PxnifyDev/roblox-job-ids/main/data/Loader.lua"))()
 end

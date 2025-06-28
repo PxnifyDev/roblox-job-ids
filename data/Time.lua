@@ -1,1 +1,1 @@
-return 590
+return { EggTimeLeft = 60 }

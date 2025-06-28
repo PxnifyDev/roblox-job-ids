@@ -1,1 +1,1 @@
-return 600
+return 540

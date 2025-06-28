@@ -1,7 +1,7 @@
 -- Zeit in Sekunden
-local EggTimeLeft = 360
+local EggTimeLeft = 540
 while true do
-    game:GetService("TeleportService"):TeleportToPlaceInstance(85896571713843, "3d5bc01a-7449-4f0a-a601-46c11855a91a")
+    game:GetService("TeleportService"):TeleportToPlaceInstance(85896571713843, "be7b1532-dd97-45f1-b618-aa971c44c308")
     wait(EggTimeLeft)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/PxnifyDev/roblox-job-ids/main/data/Loader.lua"))()
 end
